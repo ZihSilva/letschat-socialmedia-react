@@ -6,7 +6,7 @@ import { Avatar } from "./avatar"
 export function Comment( ) {
     return (
         <div className={styles.comment}>
-            <Avatar src="https://github.com/ZihSilva.png" />
+            <Avatar src="http://github.com/ZihSilva.png" />
            
             <div className={styles.commentBox}>
                 <div className={styles.commentContent}>
@@ -21,7 +21,7 @@ export function Comment( ) {
                         </button>
                     </header>
 
-                    <p>Muito bom, Devon, congratulations</p>
+                    <p>Well done, Devon, congratulations</p>
                 </div>
 
                 <footer>
