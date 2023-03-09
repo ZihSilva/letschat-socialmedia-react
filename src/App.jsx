@@ -27,7 +27,7 @@ const posts = [
     id: 2,
     author: {
       avatarUrl: "https://github.com/Rebecca-Collins.png",
-      nome: "Rebecca Collins",
+      nome: "Lucy Collins",
       role: "Web Developer"
     },
     content: [
